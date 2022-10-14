@@ -2,7 +2,7 @@
 /*This is a comment*/
 p{
         color: black;
-        font-size: 24px;
+        font-size: 50px;
         text-align: center;
         font-family: Chalkboard;
 
@@ -12,7 +12,6 @@ h1{
     font-family:Chalkboard;
     color:black;
     text-align:center;
-    font-size: 3em;
 }
 
 body{
@@ -23,5 +22,5 @@ body{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 20%;
+  width: 70%;
 }
